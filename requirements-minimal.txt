@@ -1,0 +1,29 @@
+# Minimal requirements for core functionality
+setuptools>=65.0.0
+pip>=23.0.0
+wheel>=0.38.0
+
+# Essential web framework
+streamlit>=1.28.0
+
+# Core document processing
+PyPDF2>=3.0.0
+python-docx>=0.8.11
+pytesseract>=0.3.10
+Pillow>=9.5.0
+
+# Basic data processing
+numpy>=1.24.0
+pandas>=2.0.0
+
+# Essential NLP
+nltk>=3.8.0
+textstat>=0.7.0
+langdetect>=1.0.9
+
+# Basic visualization
+matplotlib>=3.7.0
+plotly>=5.15.0
+
+# Utilities
+python-multipart>=0.0.6 

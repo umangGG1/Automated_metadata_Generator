@@ -1,0 +1,90 @@
+{
+  "file_metadata": {
+    "file_name": "MARS OPEN PROJECTS 2025.pdf",
+    "file_path": "MARS OPEN PROJECTS 2025.pdf",
+    "file_extension": ".pdf",
+    "file_size_bytes": 729700,
+    "file_size_human": "712.6KB",
+    "creation_time": "2025-06-21T13:13:08.812733",
+    "modification_time": "2025-06-21T13:13:09.605965",
+    "file_hash_md5": "511ba7bd48c4cb74cb1111d1ba9ba6bb"
+  },
+  "content_metadata": {
+    "language": "en",
+    "document_type": {
+      "predicted_type": "letter",
+      "confidence": 0.15459664165973663,
+      "all_scores": {
+        "letter": 0.15459664165973663,
+        "article": 0.11485400795936584,
+        "legal document": 0.09624982625246048,
+        "presentation": 0.07635801285505295,
+        "technical manual": 0.07461269944906235,
+        "contract": 0.06898042559623718,
+        "business report": 0.068540059030056,
+        "instruction manual": 0.06533785909414291,
+        "policy document": 0.06382963806390762,
+        "marketing material": 0.061075326055288315,
+        "financial report": 0.05539979785680771,
+        "research paper": 0.05285608768463135,
+        "academic paper": 0.04730958491563797
+      }
+    },
+    "summary": "OPEN PROJECTS ( 2025 ) \nAI/ML PROBLEM STATEMENT S \n \n1.",
+    "key_phrases": [
+      "file",
+      "will",
+      "compression",
+      "system",
+      "link",
+      "metadata",
+      "data",
+      "project",
+      "files",
+      "users"
+    ],
+    "topics": {
+      "technology": 0.029585798816568046,
+      "business": 0.0,
+      "science": 0.0016906170752324597,
+      "legal": 0.0,
+      "medical": 0.0,
+      "education": 0.0016906170752324597
+    },
+    "entities": {
+      "emails": [],
+      "urls": [],
+      "dates": [],
+      "phone_numbers": []
+    },
+    "content_metrics": {
+      "character_count": 8102,
+      "word_count": 1183,
+      "sentence_count": 100,
+      "paragraph_count": 1,
+      "average_words_per_sentence": 11.83,
+      "average_characters_per_word": 6.848689771766695,
+      "unique_words": 575,
+      "lexical_diversity": 0.48605240912933223
+    },
+    "readability_scores": {
+      "flesch_reading_ease": 36.84627879561333,
+      "flesch_kincaid_grade_level": 11.45433215807575,
+      "automated_readability_index": 11.15200144619051,
+      "coleman_liau_index": 14.04560143626571,
+      "gunning_fog": 14.560775237394822
+    }
+  },
+  "processing_metadata": {
+    "processing_timestamp": "2025-06-22T11:30:54.752822",
+    "extraction_method": "PyPDF2",
+    "text_extracted": true,
+    "analysis_completed": true,
+    "metadata_version": "1.0"
+  },
+  "quality_metrics": {
+    "text_extraction_confidence": 1.0,
+    "classification_confidence": 0.15459664165973663,
+    "completeness_score": 0.6
+  }
+}
